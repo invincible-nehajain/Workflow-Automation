@@ -74,8 +74,10 @@ Lay the foundation to scale from 10 → 100+ customers without linear headcount 
 
 📸 Screenshots
 
-Form Builder UI – Structured intake with validation
+![Retool_Product Management_Slack](https://github.com/user-attachments/assets/6b4de0a0-6039-415e-a6c9-fb5541d19a18)
+![Retool_Email Automation](https://github.com/user-attachments/assets/ba835a32-727a-4a02-b435-a9906ed82f3d)
+![Retool_Form Creation](https://github.com/user-attachments/assets/27e77e18-c579-4597-aec7-ff4cd0840222)
 
-Customer Orders Table – Centralized operational visibility
 
-Workflow Automation – Conditional routing and Slack notifications
+
+
